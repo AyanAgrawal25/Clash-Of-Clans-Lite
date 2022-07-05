@@ -1,4 +1,4 @@
-# **Clash of Clans 0.2.0**
+# **Clash of Clans Lite**
 
 ### **To start the game :**
 
